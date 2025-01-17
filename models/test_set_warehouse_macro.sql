@@ -1,0 +1,1 @@
+SELECT {{ set_warehouse() }} AS warehouse_name;
